@@ -32,7 +32,7 @@ Crouton is frequently confused as a Dual-boot solution, this however is inaccura
 
   
 * **no rebooting to switch OSs**    
-     _with crouton you can seamlessly switch between two(or more) OSs with a keyboard shortcut, allowing for easy multitasking between OSs that isn’t possible on a dual-boot platform _
+     _with crouton you can seamlessly switch between two(or more) OSs with a keyboard shortcut, allowing for easy multitasking between OSs that isn’t possible on a dual-boot platform_
 
 * **no hard drive partitioning**  
  _Dual boot systems partition the hard drive into sections that are off limits to the other OS, crouton allows for multiple OSs to run on a single hard drive without this division, this allows for shared directories and files and system resources._     
