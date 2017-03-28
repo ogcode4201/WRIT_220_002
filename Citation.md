@@ -1,4 +1,4 @@
-###Citiations
+### Citations
 ------------------------
 1. Schneider, D (Sep 21, 2015) crouton wiki  
     retreived from [https://github.com/dnschneid/crouton/wiki](https://github.com/dnschneid/crouton/wiki)
