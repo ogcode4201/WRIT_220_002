@@ -71,7 +71,7 @@ Contributors are welcome but must first sign a [Contributor License Agreement](h
 Please review [this BSD license](https://github.com/dnschneid/crouton/blob/master/LICENSE) before using or modifying the source code.
 
 
-##Additional information and Download  
+## Additional information and Download  
 Visit the [Official Crouton Github](https://github.com/dnschneid/crouton) for the download link.  
 Additional information can be found at the [Crouton wiki.] (https://github.com/dnschneid/crouton/wiki)
 
